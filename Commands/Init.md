@@ -4,15 +4,11 @@ the 'git init' command is used to create an emopty git repository.
 
 If you want to creat a new directory and initialize a git repository, you can do so witht he following commands
 
----
-
-`mkdir NewDirectory`
-
-`cd NewDirectory`
-
-`git init`
-
----
+```
+mkdir NewDirectory
+cd NewDirectory
+git init
+```
 
 Once inside a git repository, oyu can start using commands such as
 [status](./Status.md),

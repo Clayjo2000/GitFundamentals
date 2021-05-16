@@ -4,9 +4,9 @@ When you have a [remote](./Remote.md) set up you'll need to begin to move [commi
 
 You can attach a name and branch name to your command to specify where you're pushing to.
 
----
-`get push origin main`
----
+```
+get push origin main
+```
 
 This command will push the **main** branch to the remote call **origin**.
 This means any commits that are in your local will be **pushed** to the remote.
@@ -17,9 +17,9 @@ Instead of including the name of the remote and the branch you're on every time,
 
 Before doing so, you'll need to use the `-u` or `--set-upstream` flag. This can be done on any `git push`.
 
----
-`git push -u origin main`
----
+```
+git push -u origin main
+```
 
 After this command is used, you can just use `git push` and it will function the same way.
 
