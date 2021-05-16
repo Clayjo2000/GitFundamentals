@@ -10,9 +10,8 @@ For example, if we have an application we're working on where we just built tout
 
 ---
 `git add .`
-
+---
 `git commit -m "Added register functionality"`
-
 ---
 
 Then when viewing the history of a git repository, you can pinpoint where the registration functionality was added.

@@ -23,9 +23,7 @@ The name is the local name, meaning it's your label and does not impact the actu
 A remote can be removed with teh `git remote remove` command, followed by the name of the remote.
 
 ---
-
 `git remote remove origin`
-
 ---
 
 ## Resources
