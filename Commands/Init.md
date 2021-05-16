@@ -6,11 +6,11 @@ If you want to creat a new directory and initialize a git repository, you can do
 
 ---
 
-'mkdir NewDirectory'
+`mkdir NewDirectory`
 
-'cd NewDirectory'
+`cd NewDirectory`
 
-'git init'
+`git init`
 
 ---
 

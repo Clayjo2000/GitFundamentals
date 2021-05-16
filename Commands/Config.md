@@ -6,9 +6,9 @@ For example, your identity can be set up with the commands such as:
 
 ---
 
-git config --global user.name "Arnold Shortman"
+`git config --global user.name "Arnold Shortman"`
 
-git config --global user.email arnoldshortman202@gmail.com
+`git config --global user.email arnoldshortman202@gmail.com`
 
 ---
 
