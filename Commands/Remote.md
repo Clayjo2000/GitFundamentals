@@ -4,7 +4,7 @@ When working with git, a **remote** is any git repository that is not on the mac
 
 Take GitHub for example. While git is the technology that allows you to create local repositories, GitHub is the site that will hosty your remore repositories. Once stored remotely, you can bring that repository back down or share it with others.
 
-**Note**: While the repositories (local and rewmote) are related and track the same project, they can have different states if changes are not shared between the two.
+**Note**: While the repositories (local and remote) are related and track the same project, they can have different states if changes are not shared between the two.
 
 ### Adding a remote
 

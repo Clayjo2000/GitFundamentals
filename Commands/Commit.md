@@ -6,7 +6,7 @@ Commits come with commit message that are required for each commit. You add a me
 
 A commit message _can_ be anything, but best practices dictates that you should use that message to indicate the changes included in the commit.
 
-For example, if we have an application we're working on where we just built tout the ability to register new accounts, then you might haves ome variation of the following:
+For example, if we have an application we're working on where we just built out the ability to register new accounts, then you might haves some variation of the following:
 
 ```
 git add .
